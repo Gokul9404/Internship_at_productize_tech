@@ -4,6 +4,8 @@
 
 >### <i> 1. Utensils-and-blueFlames [Annotations.](https://github.com/Gokul9404/Internship_at_productize_tech/tree/main/F77-Utensils_%26_Flames-Detection) </i>
 
+>### <i> 2. Gym Equipment [Annotations.](https://github.com/Gokul9404/Internship_at_productize_tech/tree/main/F77-Utensils_%26_Flames-Detection) </i>
+
 ---
 
 ## Work during the internship:
